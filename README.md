@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Priscilla Sousa Guimarães and I'm a Estudante Full Stack</h2>
+<h2 align="left">Hi 👋! My name is Priscilla Sousa Guimarães and I'm a study Full Stack</h2>
 
 ###
 
